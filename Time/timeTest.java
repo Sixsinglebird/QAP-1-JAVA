@@ -1,3 +1,3 @@
 package Time;
 
-public class timeTest {}
+public class TimeTest {}

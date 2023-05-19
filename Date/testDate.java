@@ -1,6 +1,6 @@
 package Date;
 
-public class testDate {
+public class TestDate {
 
   public static void main(String[] args) {
     // my birthday.... not the queen. : )
