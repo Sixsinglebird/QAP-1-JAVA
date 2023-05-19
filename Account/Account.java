@@ -17,16 +17,19 @@ public class Account {
     this.balance = balance;
   }
 
-  public void getId() {
+  public String getId() {
     System.out.println("Id: " + this.id);
+    return this.id;
   }
 
-  public void getName() {
+  public String getName() {
     System.out.println("Name: " + this.name);
+    return this.name;
   }
 
-  public void getBalance() {
+  public double getBalance() {
     System.out.println("Balance: " + this.balance);
+    return this.balance;
   }
 
   public void credit(double amnt) {
