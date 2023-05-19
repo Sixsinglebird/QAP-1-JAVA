@@ -76,6 +76,7 @@ public class Time {
   }
 
   public String fixTime() {
+    this.Time = "";
     fixHour();
     fixMinute();
     fixSecond();
