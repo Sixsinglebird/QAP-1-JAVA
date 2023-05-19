@@ -1,6 +1,6 @@
 package Account;
 
-public testAccount {
+public class testAccount {
 
   public static void main(String[] args) {
     Account acc2 = new Account("444", "acc1", 5000.00);
